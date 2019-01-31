@@ -6,4 +6,19 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="home">Inicio</string>
+    <string name="project">Proyectos</string>
+    <string name="map">Ubicación</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="p_photo">Foto de perfil</string>
+    <string name="yo">Camila González</string>
+    <string name="menu_btn">Back</string>
+    <string name="name">Paula Camila Gonzalez Ortega</string>
+    <string name="mail">gon18398@uvg.edu.gt</string>
+    <string name="p1">Laboratorio 2</string>
+    <string name="p2">Laboratorio 3</string>
+    <string name="desPro">Estos son algunos proyectos realizados en Android Studio.
+        Para ver su repositorio en github, haz click sobre el
+    </string>
+
 </resources>
