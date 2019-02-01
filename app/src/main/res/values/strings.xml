@@ -20,5 +20,7 @@
     <string name="desPro">Estos son algunos proyectos realizados en Android Studio.
         Para ver su repositorio en github, haz click sobre el
     </string>
+    <string name="title">Hello World! \n\nBienvenidos al cuarto laboratorio de Apps UVG</string>
+    <string name="title_activity_maps">Map</string>
 
 </resources>

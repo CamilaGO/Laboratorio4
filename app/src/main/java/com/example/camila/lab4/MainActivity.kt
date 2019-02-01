@@ -72,6 +72,9 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
             }
             R.id.map -> {
+                // Direcciona a pagina que tiene un google maps
+                val intent = Intent(this, MapsActivity::class.java)
+                startActivity(intent)
 
             }
 
